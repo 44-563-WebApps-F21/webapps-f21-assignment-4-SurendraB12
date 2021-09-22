@@ -1,15 +1,15 @@
 .speech {
     font-family: Arial;
-    font-size: 26px;
+    font-size: 20px;
     color: black;
     margin: 16px;
 }
 
 .stage-direction {
     font-family: Garamond, Arial;
-    font-size: 26px;
+    font-size: 15px;
     color: black;
-    background-color: lightgoldenrodyellow;
+    background-color: lightseagreen;
 }
 
 .stage-direction:hover {
@@ -17,8 +17,8 @@
     color: red;
 }
 .name {
-    font-size: 26;
-    color: yellow;
+    font-size: 40;
+    color: blue;
 }
 .LORDGORING {
     color: brown;
@@ -26,3 +26,12 @@
 .SIRROBERTCHILTERN {
     color: skyblue;
 }
+table { border: dashed 6px brown;
+    border-collapse: separate;}
+    table.collapsing {
+    border: solid 6px;
+    border-collapse: collapse;}
+    td, th {border: solid 1px ;
+    text-align: left;}
+    tr:nth-child(even)
+    {background-color: orange;}
