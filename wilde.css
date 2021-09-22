@@ -35,3 +35,15 @@ table { border: dashed 6px brown;
     text-align: left;}
     tr:nth-child(even)
     {background-color: orange;}
+
+    h6.SIRROBERTCHILTERN:hover{
+        text-shadow: rgb(165, 179, 192);
+        border-style: outset;
+        filter:blur(2px);
+    }
+    
+    h6.LORDGORING:hover{
+        text-shadow: rgb(184, 202, 219);
+        border-style: outset;
+        filter:blur(2px);
+    }
